@@ -1,0 +1,2102 @@
+[
+  {
+    "image_id": "0#approach#look#eye#evacuee#frown#surrounding",
+    "test": "He glances up at her as she nears , his expression one of disapproval of the evacuees ' environment .",
+    "refs": [
+      "As she approaches , he looks up into her eyes . Evacuees frowns at her surroundings ."
+    ]
+  },
+  {
+    "image_id": "1#people#line#hill#bicycle#begin#race#track",
+    "test": "Cyclists queued at the summit of the hill started to compete around the track .",
+    "refs": [
+      "People are lined up at the top of a hill on bicycles . They begin to race around a track ."
+    ]
+  },
+  {
+    "image_id": "10#turn#servant#curtsy#head",
+    "test": "She gestured to a servant , who quickly curtsied before scurrying away .",
+    "refs": [
+      "She turns to a servant . The servant curtsies and heads off ."
+    ]
+  },
+  {
+    "image_id": "100#give#thumb#clean#car#put#shoe",
+    "test": "After having cleaned the car , he gives a thumbs up to someone and slips his shoes back on .",
+    "refs": [
+      "He gives someone a thumbs up as he cleans the car . He then puts the shoes back on ."
+    ]
+  },
+  {
+    "image_id": "101#group#team#mate#gym#play#game#volleyball",
+    "test": "A volleyball match is taking place inside a gym , with a group of teammates competing .",
+    "refs": [
+      "A group of team mates are inside a gym . They are playing a game of volleyball ."
+    ]
+  },
+  {
+    "image_id": "102#pick#handle#phone#sit#type#computer",
+    "test": "The general , seated and typing on his computer , answered a call on a phone with a red handle .",
+    "refs": [
+      "A general picks up a red handled phone . He sits and types on his computer ."
+    ]
+  },
+  {
+    "image_id": "103#notice#baby#photo#smile#banker#hold#arm",
+    "test": "The banker , upon seeing the framed baby photo , grins and raises his arm .",
+    "refs": [
+      "He notices a framed baby photo and smiles . The banker holds up his arm as well ."
+    ]
+  },
+  {
+    "image_id": "104#people#swim#pool#wear#cap",
+    "test": "A number of individuals are taking a dip in a pool , with each of them donning a safety hat .",
+    "refs": [
+      "Several people are swimming in a pool . They are all wearing protective caps ."
+    ]
+  },
+  {
+    "image_id": "105#picture#man#show#lead#throw#dart#grab#dart#get",
+    "test": "Images of a man are presented , prompting her to pick up and throw the darts , which she does with accuracy .",
+    "refs": [
+      "Pictures of a man are shown and leads into her throwing darts . She grabs the darts and gets them on ."
+    ]
+  },
+  {
+    "image_id": "106#glance#hold#arm#look#shake#head",
+    "test": "After quickly surveying his surroundings , the person extended their arms , their gaze then falling to the ground as they gave a small shake of their head .",
+    "refs": [
+      "Glancing around himself , someone holds out his arms . He looks down and shakes his head slightly ."
+    ]
+  },
+  {
+    "image_id": "107#sit#sofa#bang#head#lamp",
+    "test": "She bangs her head against the lamp perched atop the sofa she sits upon .",
+    "refs": [
+      "She 's sitting on a sofa . She bangs her head on a lamp above her ."
+    ]
+  },
+  {
+    "image_id": "108#stick#wand#arm#hold#piece#mirror",
+    "test": "Someone inserts their wand into another person 's arm while grasping a piece of shattered mirror .",
+    "refs": [
+      "Someone sticks her wand in someone 's arm . Someone holds the piece of broken mirror ."
+    ]
+  },
+  {
+    "image_id": "109#look#move#man#walk#arm#arm",
+    "test": "He hung his head dejectedly as he walked away . Meanwhile , the couple strolled away , intertwined in each other 's arms .",
+    "refs": [
+      "Then he looks down sadly and moves off . Someone and her man walk off , arm - in - arm ."
+    ]
+  },
+  {
+    "image_id": "11#tap#cup#finish#drink#look#cigarette",
+    "test": "Cups are tapped and the beverages are gulped down , while a gaze is exchanged between two individuals .",
+    "refs": [
+      "They tap cups and finish their drinks . Someone looks from the cigarette to someone ."
+    ]
+  },
+  {
+    "image_id": "110#put#bungee#gear#man#jump#swinge#water",
+    "test": "They donned bungee equipment , and a man leapt from the edge , his body swaying above the river .",
+    "refs": [
+      "They are putting on bungee gear . A man jumps off the side , swinging over the water ."
+    ]
+  },
+  {
+    "image_id": "111#checker#board#davenport#people#sit#chair",
+    "test": "Between two people , the checker - board lies on the davenport , with one person seated in a large , comfortable armchair .",
+    "refs": [
+      "The checker - board is on the davenport between people . Someone sits in a big easy chair ."
+    ]
+  },
+  {
+    "image_id": "112#lean#touch#hat#turn#horse",
+    "test": "He bowed to her and , tipping his hat , spurred his horse onward .",
+    "refs": [
+      "He leans down to her . He touches his hat , turns his horse ."
+    ]
+  },
+  {
+    "image_id": "113#join#sob#look#shoulder",
+    "test": "Tears streaming down her face , she was joined by another , who peered over her shoulder .",
+    "refs": [
+      "Someone joins her , sobbing helplessly . Someone looks over her shoulder at someone ."
+    ]
+  },
+  {
+    "image_id": "114#add#shot#alcohol#glass#pour#lemon#container",
+    "test": "Shots of alcohol were added to the glass by her , subsequently followed by lemons being poured into the container .",
+    "refs": [
+      "She adds shots of alcohol to the glass . She then pours lemons into the container ."
+    ]
+  },
+  {
+    "image_id": "115#people#jump#rope#gymnasium#people#jump#rope#park",
+    "test": "Jump roping is taking place inside a gymnasium and outside in a park .",
+    "refs": [
+      "People are jump roping in a gymnasium . People are jump roping outside in a park ."
+    ]
+  },
+  {
+    "image_id": "116#clap#hand#watch#man#fall#floor",
+    "test": "As she observed someone , the sound of her clapping hands echoed , and a man nearby collapsed to the ground .",
+    "refs": [
+      "Someone claps her hands as she watches someone . Nearby , a man falls to the floor ."
+    ]
+  },
+  {
+    "image_id": "117#kneel#prop#wall#glance",
+    "test": "Propping him against a wall , someone knelt beside him and he glanced drowsily back .",
+    "refs": [
+      "Kneeling beside someone , someone props him against a wall . Someone glances drowsily at someone ."
+    ]
+  },
+  {
+    "image_id": "118#close#dry#product#man#turn#dial#machine",
+    "test": "A close - up of the dried product is shown , with a man adjusting a knob on a machine .",
+    "refs": [
+      "There is a close up of the dried product . A man turns a dial on a machine ."
+    ]
+  },
+  {
+    "image_id": "119#lean#balcony#railing#pause#moment#compose",
+    "test": "Leaning over the balcony railing , he took a moment to compose himself .",
+    "refs": [
+      "He leans over the balcony railing . It casually pauses for a moment to compose himself ."
+    ]
+  },
+  {
+    "image_id": "12#volunteer#spread#playground#area#volunteer#spread#wood#chip#playground",
+    "test": "Volunteers spread a blanket of mulch over the playground area .",
+    "refs": [
+      "Volunteers spread mulch over a playground area . Volunteers spread wood chips over the playground ."
+    ]
+  },
+  {
+    "image_id": "120#hoist#head#pull#sit#position",
+    "test": "Two people jointly lift the head and someone else helps to pull the other person into a seated position .",
+    "refs": [
+      "Someone and someone hoist the head up between them . Someone pulls someone into a sitting position ."
+    ]
+  },
+  {
+    "image_id": "121#look#look",
+    "test": "He looks up at the other person , who has their gaze directed downward .",
+    "refs": [
+      "Someone looks down at someone . He looks up at him ."
+    ]
+  },
+  {
+    "image_id": "122#man#shirt#stand#dart#board#show#screen",
+    "test": "A figure in a black garment is situated behind him , with a dartboard projected onto the display .",
+    "refs": [
+      "A man in a black shirt stands behind him . A dart board is shown on the screen ."
+    ]
+  },
+  {
+    "image_id": "123#player#play#baseball#game#player#run#run#basis",
+    "test": "A baseball game is being played , with one of the players sprinting around the bases .",
+    "refs": [
+      "Players are playing a baseball game . A player runs down running on the bases ."
+    ]
+  },
+  {
+    "image_id": "124#grab#board#place#water#man#climb#board",
+    "test": "He swiftly picks up his board and immerses it in the water . The man then mounts the board and rides the waves .",
+    "refs": [
+      "He grabs his board and places it into the water . The man climbs the board and surfs ."
+    ]
+  },
+  {
+    "image_id": "125#move#go#leave#kid",
+    "test": "He surged ahead of the others , leaving the kids in his wake .",
+    "refs": [
+      "Someone moves ahead of the others . He goes on leaving the kids behind ."
+    ]
+  },
+  {
+    "image_id": "126#man#use#phone#sit#foot",
+    "test": "The man with the gray hair was talking on the phone , and another person was seated a few feet away .",
+    "refs": [
+      "A gray - haired man uses a phone . Someone sits a few feet away ."
+    ]
+  },
+  {
+    "image_id": "127#woman#want#happen#settle#beat#leave",
+    "test": "After the women left , a palpable stillness settled in as if they had wished for this outcome .",
+    "refs": [
+      "The women clearly want this to happen . It settles for a beat after they leave ."
+    ]
+  },
+  {
+    "image_id": "128#break#man#score#continue#play#serve",
+    "test": "After one man scored , they took a brief respite , after which they resumed the game and served .",
+    "refs": [
+      "They take a short break after one man scores . They continue to play and serve ."
+    ]
+  },
+  {
+    "image_id": "129#screen#advertise#video#man#show#lie#shave#beard",
+    "test": "A black backdrop serves as the backdrop of a video ad . It shows a man reclining while his beard is being trimmed .",
+    "refs": [
+      "A black screen advertises the video . A man is shown lying down while someone shaves his beard ."
+    ]
+  },
+  {
+    "image_id": "13#leave#turn#stove#log#wood",
+    "test": "As one departs , another swivels toward the cooker . Distancing themselves from the log of timber .",
+    "refs": [
+      "Someone leaves , and someone turns to the stove . They move away from a log of wood ."
+    ]
+  },
+  {
+    "image_id": "130#child#stand#tube#snow#family#go#hill#tube",
+    "test": "Nearby , a family slides down the snowy hill together on a large inner tube , children in tow .",
+    "refs": [
+      "Children stand near inner tubes on snow . A family goes down a snowy hill on a large inner tube ."
+    ]
+  },
+  {
+    "image_id": "131#wear#vest#dog#tag#commander#stroke#boy#head",
+    "test": "The commander tenderly caressed the lad 's head while he was wearing a white vest and dog tags underneath , the area being open to the public .",
+    "refs": [
+      "It is open and he wears a white vest and dog tags underneath . The commander strokes the boy 's head ."
+    ]
+  },
+  {
+    "image_id": "132#sit#smirk#look",
+    "test": "Someone with a grim smirk sits , and is looked up at by someone else .",
+    "refs": [
+      "Master someone sits with a grim smirk . Someone looks up at someone ."
+    ]
+  },
+  {
+    "image_id": "133#sit#bench#remove#pant#wipe#face#rag",
+    "test": "He settles on a bench to take off his trousers . He then dabs his face with a cloth .",
+    "refs": [
+      "He sits down on a bench to remove his pants . He then wipes his face with a rag ."
+    ]
+  },
+  {
+    "image_id": "134#pick#jacket#nod",
+    "test": "His jacket is picked up , and a solemn nod is given .",
+    "refs": [
+      "Someone picks up his jacket . Someone nods solemnly ."
+    ]
+  },
+  {
+    "image_id": "135#fall#motion#comment#add#end#screen",
+    "test": "Slow - motion footage along with commentary is shown once more , followed by the closing credits .",
+    "refs": [
+      "We see the fall again in slow motion and with comments added . We see the ending screen ."
+    ]
+  },
+  {
+    "image_id": "136#wave#mother#walk#stop#track",
+    "test": "Someone halted abruptly as they watched their companion and her mother walk away , a wave signifying their farewell .",
+    "refs": [
+      "Someone waves as someone and her mother walk off . Someone stops in her tracks ."
+    ]
+  },
+  {
+    "image_id": "137#gymnast#mount#beam#gym#gymnastic#routine#balance#beam",
+    "test": "A male gymnast ascended the balance beam in a gym , where he performed a routine .",
+    "refs": [
+      "A male gymnast mounts a beam in a gym . He does a gymnastics routine on the balance beam ."
+    ]
+  },
+  {
+    "image_id": "138#offer#woman#paper#dog#bite#dog#pull#cafe",
+    "test": "Offering the woman a paper , he was bitten by her dog , which pulled her away from the cafe .",
+    "refs": [
+      "As he offers the woman a paper , her dog bites him . Her dog pulls her away from the cafe ."
+    ]
+  },
+  {
+    "image_id": "139#increase#volume#tv#begin#read#newspaper",
+    "test": "As the volume of the television gets louder , someone starts to read the newspaper .",
+    "refs": [
+      "He increases the volume on the tv . Someone is beginning to read the newspaper ."
+    ]
+  },
+  {
+    "image_id": "14#building#saddle#waterfall#people#watch#kayak#river",
+    "test": "The edifice straddles a tremendous waterfall , with spectators observing kayaks descending the river .",
+    "refs": [
+      "The building saddles a massive waterfall . People are watching kayaks down a river ."
+    ]
+  },
+  {
+    "image_id": "140#prisoner#start#run#ss#man#open#fire#machine#gun#mount#vehicle",
+    "test": "The prisoners , upon seeing the SS men open fire with a machine gun mounted on the vehicle , began to flee .",
+    "refs": [
+      "The prisoners start to run . The ss men open fire with a machine gun mounted on the vehicle ."
+    ]
+  },
+  {
+    "image_id": "141#hop#ledge#deliver#shockwave#branch",
+    "test": "Hopping onto the ledge , the sorcerer sent out a shockwave across the branches .",
+    "refs": [
+      "He hops up on the ledge . The sorcerer delivers a shockwave out across the branches ."
+    ]
+  },
+  {
+    "image_id": "142#drop#water#rise#yacht",
+    "test": "Someone is dropped into the water from a yacht , and then rises back up .",
+    "refs": [
+      "Someone drops someone in the water . Someone rises from his yacht ."
+    ]
+  },
+  {
+    "image_id": "143#stroke#brow#look#frown#give#pierce#look",
+    "test": "He felt a caress on his forehead , and gazed up with a scowl . Then , their eyes locked in a searing gaze .",
+    "refs": [
+      "Someone strokes someone 's brow . Someone looks up and frowns , then gives him a piercing look ."
+    ]
+  },
+  {
+    "image_id": "144#reach#gun#hop#car#take#aim",
+    "test": "Reaching for his gun , he saw someone hop out of the car , leveling their firearm at him .",
+    "refs": [
+      "He reaches for his gun . Someone hops out of the car and takes aim ."
+    ]
+  },
+  {
+    "image_id": "145#hand#wing#pretend#fly#outline#bomb#hand",
+    "test": "His hands flapping like wings , he pretended to soar through the air , before forming an imaginary bomb with them .",
+    "refs": [
+      "He move his hands like wings and pretends to fly . He outlines a bomb with his hands ."
+    ]
+  },
+  {
+    "image_id": "146#tear#flood#eye#take#hand#lead#stair",
+    "test": "Her eyes overflow with tears as someone takes her hand and guides her up the stairs .",
+    "refs": [
+      "Tears flood from her eyes . Someone takes her hand and leads her up the stairs ."
+    ]
+  },
+  {
+    "image_id": "147#stand#cheer#son#knock#boy#knee",
+    "test": "Someone in the stands cheers on their son , only to have that same person knock the boy down to his knees .",
+    "refs": [
+      "In the stands , someone cheers her son on . Someone knocks the boy to his knees ."
+    ]
+  },
+  {
+    "image_id": "148#girl#wear#fur#coat#talk#camera#man#look",
+    "test": "Occasionally glancing at her , the man watched as the girl conversed with the camera , clad in a luxurious fur coat .",
+    "refs": [
+      "The girl wears a fur coat and talks to the camera . The man looks at her occasionally ."
+    ]
+  },
+  {
+    "image_id": "149#stand#diving#board#jump#pool#series#flip",
+    "test": "He , from atop the diving board , leapt into the pool below and performed a succession of somersaults .",
+    "refs": [
+      "He stands on a diving board and jumps into the pool below him . He does a series of flips ."
+    ]
+  },
+  {
+    "image_id": "15#stand#look#set#sun#glow#tent",
+    "test": "Lonely and gazing at the evening sun , a faint radiance glimmers from inside the tent .",
+    "refs": [
+      "Someone stands alone , looking towards the setting sun . A dim light glows inside the tent ."
+    ]
+  },
+  {
+    "image_id": "150#face#cake#powder#eye#ear#hair#mouth",
+    "test": "An abundance of white powder coats her face , infiltrating her eyes , ears , hair and mouth .",
+    "refs": [
+      "Her face is caked with the white powder . It is in her eyes , her ears , hair , mouth ."
+    ]
+  },
+  {
+    "image_id": "151#woman#lift#barbell#air#lift#head#try#hold",
+    "test": "The woman attempted to hoist the barbell over her head , struggling to keep it there .",
+    "refs": [
+      "A woman lifts a barbell up into the air . She lifts it over her head , trying to hold it ."
+    ]
+  },
+  {
+    "image_id": "152#man#light#fire#add#piece#wood#end#title#screen",
+    "test": "We see the ending title screen as the man lights the fire and throws in a few more pieces of wood .",
+    "refs": [
+      "The man lights the fire and adds a few more pieces of wood . We see the ending title screen ."
+    ]
+  },
+  {
+    "image_id": "153#husband#wrap#glass#gaze#intolerant#turn#woman#seat",
+    "test": "He sharply raps on the glass , his gaze unyielding ; then he turns to the woman seated nearby .",
+    "refs": [
+      "Her husband wraps on the glass , his gaze intolerant . He turns to a woman seated nearby ."
+    ]
+  },
+  {
+    "image_id": "154#give#thumb#head#drag#duffel#bag#seat",
+    "test": "He gave two thumbs up and departed , while someone behind him dragged a big duffel bag away .",
+    "refs": [
+      "He gives two thumbs up then heads away . Someone drags a large duffel bag from a seat behind someone ."
+    ]
+  },
+  {
+    "image_id": "155#hold#take#release#smoke#lean#glare",
+    "test": "He seizes one from her outstretched hand , releases the smoke , and then leans back , giving her an icy glare .",
+    "refs": [
+      "She holds it out and he takes one . He releases the smoke , then leans back and glares at her ."
+    ]
+  },
+  {
+    "image_id": "156#singing#man#stop#play#instrument#man#stop#play#start#singe",
+    "test": "The man , who had been singing , put down his instrument and resumed his vocal performance .",
+    "refs": [
+      "The singing man stops to play an instrument . The same man stops playing and starts singing again ."
+    ]
+  },
+  {
+    "image_id": "157#pausing#face#wear#gaze#take#passport#safe",
+    "test": "Someone paused , facing the other person who had a solemn expression . They took the passports out of the safe .",
+    "refs": [
+      "Pausing , someone faces someone who wears a solemn gaze . Someone takes passports from a safe ."
+    ]
+  },
+  {
+    "image_id": "158#referee#fix#helmet#boxer#stick#fly#land#boxing#ring",
+    "test": "The referee adjusted the boxer 's helmet , when suddenly a stick flew and landed in the boxing ring .",
+    "refs": [
+      "The referee fix the helmet of the boxer . A stick fly and lands on the boxing ring ."
+    ]
+  },
+  {
+    "image_id": "159#foot#place#beat#crowd#gather",
+    "test": "His feet must be in the right spot in time with the beat , garnering him a considerable audience .",
+    "refs": [
+      "He has to move his feet to the correct place to the beat . A crowd has gathered around him ."
+    ]
+  },
+  {
+    "image_id": "16#underwear#return#ball#look#window",
+    "test": "Returning with the ball and in her underwear , she glances out of the window .",
+    "refs": [
+      "In her underwear , she returns with the ball . She looks out of the window ."
+    ]
+  },
+  {
+    "image_id": "160#look#hobbit#beat#look",
+    "test": "Someone casts a glance at the diminutive hobbit , and then turns to the other person with an inquiring look .",
+    "refs": [
+      "Someone looks at the small hobbit a beat . Someone looks up at someone , questioningly ."
+    ]
+  },
+  {
+    "image_id": "161#man#glass#seat#talk#man#talk#audience",
+    "test": "A man wearing glasses is seated and addressing someone , while another individual addresses the crowd .",
+    "refs": [
+      "A man in glasses is seated and talking . Another man is talking to the audience ."
+    ]
+  },
+  {
+    "image_id": "162#man#lift#lady#air#lady#walk#yard#baton",
+    "test": "The lady is seen walking in a yard , deftly twirling a baton , as the man lifts her into the air .",
+    "refs": [
+      "The man lifts the lady in the air . We see a lady walking in a yard with a baton ."
+    ]
+  },
+  {
+    "image_id": "163#turn#light#cigarette",
+    "test": "He , odd in his behavior , takes out a cigarette and lights it , then turns back to whoever he had been facing .",
+    "refs": [
+      "He turns away to light a cigarette , then back to someone . He is being odd ."
+    ]
+  },
+  {
+    "image_id": "164#patient#carry#stretcher#patient#lift#bed",
+    "test": "The patient was carefully transferred onto a bed from a stretcher .",
+    "refs": [
+      "A patient is carried in on a stretcher . The patient is lifted carefully onto a bed ."
+    ]
+  },
+  {
+    "image_id": "165#take#cash#walk#kitchen",
+    "test": "The person carrying the cash walked with their companion towards the kitchen .",
+    "refs": [
+      "Someone takes the cash to someone . They walk toward the kitchen ."
+    ]
+  },
+  {
+    "image_id": "166#share#glance#lift#eye",
+    "test": "The two of them exchanged an apprehensive look , with all three of them turning their gazes up towards the heavens .",
+    "refs": [
+      "Someone and someone share a fearful glance . All three of them lift their eyes skyward ."
+    ]
+  },
+  {
+    "image_id": "167#guy#ride#exercise#bike#guy#adjust#exercise#bike#seat",
+    "test": "Adjusting the exercise bike seat , the guy took it for a ride .",
+    "refs": [
+      "A guy rides an exercise bike . The guy adjusts the exercise bike seat ."
+    ]
+  },
+  {
+    "image_id": "168#sleep#look#stare",
+    "test": "Even in repose , one 's visage is resolute ; one 's gaze is unflinching and fixed upon us .",
+    "refs": [
+      "Even in sleep , someone looks determined . Someone is awake and stares up at us ."
+    ]
+  },
+  {
+    "image_id": "169#gymnast#bar#routine#gymnast#gather#mat",
+    "test": "On the mat , a parallel bar routine is performed by the gymnast , with several other male gymnasts in attendance .",
+    "refs": [
+      "The gymnast does a parallel bar routine . Several other male gymnasts gather on the mat ."
+    ]
+  },
+  {
+    "image_id": "17#stop#way#border#post#emerge#shelter",
+    "test": "Stopping some distance from a border post , a person steps out of an armed shelter .",
+    "refs": [
+      "They stop a little way away from a border post . Someone emerges from an armed shelter ."
+    ]
+  },
+  {
+    "image_id": "170#girl#playground#go#monkey#bar",
+    "test": "A young female is advancing towards the monkey bars at a leisurely pace on the playground .",
+    "refs": [
+      "A girl is at a playground . She is slowly going up to monkey bars ."
+    ]
+  },
+  {
+    "image_id": "171#race#doorway#burst#laugh#resume#look",
+    "test": "Out of the doorway sprinted someone and then burst into laughter , only to quickly return to a serious expression .",
+    "refs": [
+      "Someone races out of the doorway . Someone bursts out laughing , then sharply resumes a serious look ."
+    ]
+  },
+  {
+    "image_id": "172#smile#drop#gaze#grin#open#car#door",
+    "test": "He drops his gaze , sheepishly grins and she responds with a smile . She then opens her car door .",
+    "refs": [
+      "She smiles , he drops his gaze and grins sheepishly . She opens her car door ."
+    ]
+  },
+  {
+    "image_id": "173#show#remove#tire#car#remove#tire#replace",
+    "test": "Afterwards , they demonstrate taking out an old tire from a vehicle and installing a new one .",
+    "refs": [
+      "They are then shown removing a tire from a car . They remove the tire and replace it with a new one ."
+    ]
+  },
+  {
+    "image_id": "174#speak#intercom#pause#look",
+    "test": "The person using the intercom paused and glanced at someone .",
+    "refs": [
+      "Someone speaks into the intercom . He pauses and looks at someone ."
+    ]
+  },
+  {
+    "image_id": "175#stand#street#follow#walk#shoulder#arm",
+    "test": "Someone and another are side by side , strolling the street outside .",
+    "refs": [
+      "Someone stands on the street outside with someone . They follow , walking shoulder - to - arm ."
+    ]
+  },
+  {
+    "image_id": "176#glance#thrust#finger#advance#suv",
+    "test": "Someone shot a look over and raised their middle finger at the person , while the other person stepped closer to the SUV .",
+    "refs": [
+      "Glancing over , someone thrusts his middle finger toward someone . Someone advances in the suv ."
+    ]
+  },
+  {
+    "image_id": "177#show#venue#perform#stunt#trick#jump#rope",
+    "test": "Various locations display them performing stunts and tricks with skipping ropes .",
+    "refs": [
+      "They are shown in several different venues . They perform stunts and tricks while jumping rope ."
+    ]
+  },
+  {
+    "image_id": "178#go#casserole#glance#shoulder",
+    "test": "Someone glances at her as she returns to her casserole .",
+    "refs": [
+      "She goes back to her casserole . Someone glances over her shoulder ."
+    ]
+  },
+  {
+    "image_id": "179#wait#gaze#fix#lower#knee",
+    "test": "Patience held him still , his eyes locked forward ; then , he slowly lowered himself onto his knees .",
+    "refs": [
+      "Someone waits patiently , his gaze fixed straight ahead . Someone lowers himself to his knees ."
+    ]
+  },
+  {
+    "image_id": "18#audience#cheer#celebrate#diver#get#hug",
+    "test": "The crowd erupted in cheers , and the diver was embraced by well - wishers .",
+    "refs": [
+      "The audience cheer or celebrate . The diver gets hugs from others ."
+    ]
+  },
+  {
+    "image_id": "180#man#jump#bar#gymnastic#routine#bar",
+    "test": "The gymnast vaults onto the parallel bars , performing an intricate routine .",
+    "refs": [
+      "A man jumps onto two bars . He does a gymnastics routine onto the parallel bars ."
+    ]
+  },
+  {
+    "image_id": "181#turn#sculpture#give#look",
+    "test": "Turning away from the unfinished sculpture , she is met with a puzzled look from outside .",
+    "refs": [
+      "She turns away from the unfinished sculpture . Outside , someone gives a puzzled look ."
+    ]
+  },
+  {
+    "image_id": "182#man#jump#bar#gymnastic#routine#bar",
+    "test": "The gymnast performed a routine on two bars after leaping onto them .",
+    "refs": [
+      "A man jumps onto two bars . He does a gymnastics routine on the bars ."
+    ]
+  },
+  {
+    "image_id": "183#tap#shoulder#turn#gasp#turn#friend",
+    "test": "Startled , she whirled around to find a hand on her shoulder . Taking a deep breath , she glanced at her friends , eyes wide .",
+    "refs": [
+      "Someone taps someone on the shoulder ; someone , surprised , turns and gasps . She turns to her friends ."
+    ]
+  },
+  {
+    "image_id": "184#flash#smile#follow#beckon",
+    "test": "The person who was following another person out was flashed a polite smile , to which they responded to the beckoning of the other .",
+    "refs": [
+      "Someone flashes a polite smile at someone , who follows someone and someone out . Someone beckons her ."
+    ]
+  },
+  {
+    "image_id": "185#person#put#rock#tire#car#look#owner#manual",
+    "test": "The individual places a stone beneath the automobile 's wheel , then peruses the proprietor 's guide .",
+    "refs": [
+      "A person puts a rock under the tire of a car . They look through the owners manual ."
+    ]
+  },
+  {
+    "image_id": "186#man#sit#room#hold#bowl#noodle#broth",
+    "test": "A bowl of noodles and broth cradled in the hands of a man , who sat contentedly within the room .",
+    "refs": [
+      "A man was sitting inside a room . He is holding a bowl of noodles and broth ."
+    ]
+  },
+  {
+    "image_id": "187#open#cage#sneak#inspector#rush#office",
+    "test": "The inspector , upon seeing the cage opened and someone sneaking out , quickly darted from his office .",
+    "refs": [
+      "Someone opens the cage and sneaks out . The inspector rushes out of his office ."
+    ]
+  },
+  {
+    "image_id": "188#watch#moment#remember#smile",
+    "test": "We observed her for a brief time , then she recollected something , which she responded to with a gentle smile .",
+    "refs": [
+      "We watch her for a moment or two , then she remember something . She smiles tenderly at her ."
+    ]
+  },
+  {
+    "image_id": "189#slam#break#hurtle#window#tumble#road",
+    "test": "Upon applying the brakes , the driver was hurled out of the car 's front window , landing on the pavement below .",
+    "refs": [
+      "Someone slams on the breaks . Someone hurtles out of the front window and tumbles out on the road ."
+    ]
+  },
+  {
+    "image_id": "19#trouble#walk#dog#show#try#walk#shoe",
+    "test": "The shoes present a challenge for him to walk in , while a different canine is attempting to do so .",
+    "refs": [
+      "He has trouble walking in them . A different dog is shown trying to walk in shoes ."
+    ]
+  },
+  {
+    "image_id": "190#straighten#shift#foot#drop#weight#effort#plate",
+    "test": "She shifts her stance and drops a weight plate with a clang .",
+    "refs": [
+      "Someone straightens and shifts on her feet . She drops a weight into a effort plate ."
+    ]
+  },
+  {
+    "image_id": "191#pull#bodyguard#jump#car#follow",
+    "test": "She pulls away in the Land Rover , and three bodyguards hastily pile into an adjacent car to tail her .",
+    "refs": [
+      "The Land Rover pulls away . Three bodyguards quickly jump into a nearby car and follow her ."
+    ]
+  },
+  {
+    "image_id": "192#people#pile#photo#booth#scream#glee#picture",
+    "test": "A photo booth is packed with people , and outside there is an ecstatic shriek of joy at the sight of the photographs .",
+    "refs": [
+      "People are piled into a photo booth . Outside , someone screams with glee at the pictures ."
+    ]
+  },
+  {
+    "image_id": "193#tip#painting#fire#truck#approach",
+    "test": "As a fire truck drew near , they all rose and somebody tilted the painting to one side .",
+    "refs": [
+      "Someone tips the painting to one side . They all get up as a near fire truck approaches them ."
+    ]
+  },
+  {
+    "image_id": "194#girl#run#leap#platform#girl#mount#bar#swing#spin#place",
+    "test": "The girl sprints , taking off with a brown platform as her launchpad . She then mounts a bar swing , twirling around in a circle .",
+    "refs": [
+      "A girls runs and leaps with a brown platform . A girl mounts a bar swing and spins in place ."
+    ]
+  },
+  {
+    "image_id": "195#woman#talk#camera#beach#apply#sock#shoe",
+    "test": "On the beach , the woman addressed the camera as she put on her socks .",
+    "refs": [
+      "A woman is talking to the camera on the beach . She is applying up socks to her shoes ."
+    ]
+  },
+  {
+    "image_id": "196#turn#car#come#stop",
+    "test": "Turning to one another , they saw the car come to a halt .",
+    "refs": [
+      "Someone turns to someone , then someone . The car comes to a stop ."
+    ]
+  },
+  {
+    "image_id": "197#pick#towel#wipe#face#surfing#man",
+    "test": "Grabbing the towel , they wiped their face and spotted a Japanese surfer .",
+    "refs": [
+      "They pick up the towel and wipe their face . They see the surfing and a man from japan ."
+    ]
+  },
+  {
+    "image_id": "198#woman#perform#gymnastic#beam#woman#dismount#beam",
+    "test": "The woman performs gymnastics on the beam and then dismounts .",
+    "refs": [
+      "The woman performs gymnastics on the beam . The woman dismounts from the beam ."
+    ]
+  },
+  {
+    "image_id": "199#bartender#add#lime#syrup#glass#pour#ingredient#glass#shaker",
+    "test": "The bartender mixed lime syrup into a glass , which was then poured into a silver shaker .",
+    "refs": [
+      "A bartender adds lime syrup into a glass . He pours the ingredients into a silver glass shaker ."
+    ]
+  },
+  {
+    "image_id": "2#walk#platform#model#sit#case",
+    "test": "She strides to a diminutive stage , the Unicorn model encased behind her .",
+    "refs": [
+      "Someone walks to a small platform . The Unicorn model sits in its case behind her ."
+    ]
+  },
+  {
+    "image_id": "20#man#shirt#watch#man#man#shirt#stand",
+    "test": "A man donning a blue shirt is keeping an eye on one of the guys , accompanied by another man wearing a gray shirt .",
+    "refs": [
+      "A man in a blue shirt is watching one of the men . A man in a gray shirt stands next to him ."
+    ]
+  },
+  {
+    "image_id": "200#man#image#face#head#man",
+    "test": "We are presented with a man 's visage .",
+    "refs": [
+      "A man has an image over his face . We see the head of a man ."
+    ]
+  },
+  {
+    "image_id": "201#begin#play#piano#finish#song#turn#walk",
+    "test": "With enthusiasm , he plays the piano , and upon finishing the song , quickly spins and strides away .",
+    "refs": [
+      "He begins playing the piano enthusiastically . The finishes the song turns around and walks quickly ."
+    ]
+  },
+  {
+    "image_id": "202#gaze#document#furrow#eyebrow",
+    "test": "His gaze upon the documents causes someone 's bushy eyebrows to crease .",
+    "refs": [
+      "He gazes at the documents . Someone furrows his bushy eyebrows ."
+    ]
+  },
+  {
+    "image_id": "203#shell#cascade#foot#shooter#car#smash",
+    "test": "Feet of the shooters are showered with shells , while one car collides into another that is stationary .",
+    "refs": [
+      "Shells cascade along the feet of the shooters . One car smashes into a static one ."
+    ]
+  },
+  {
+    "image_id": "204#guide#hand#take#step",
+    "test": "A gentle protector puts a guiding hand on her back and walks with her .",
+    "refs": [
+      "Someone gently guides her with a protective hand on her back . Someone takes her step beside him ."
+    ]
+  },
+  {
+    "image_id": "205#dance#sign#hold#harmonica#hand",
+    "test": "Dancing before a massive blue sign , he holds a harmonica in his hands .",
+    "refs": [
+      "He is dancing in front of a large blue sign . He is holding a harmonica in his hands ."
+    ]
+  },
+  {
+    "image_id": "206#glare#wife#circle#bed#wife#lie#slack#jaw#motionless",
+    "test": "His eyes fiercely bore into his wife 's unmoving figure as he slowly strides around the bed . Her jaw hangs loose and her body remains still .",
+    "refs": [
+      "He glares down at his comatose wife and circles the bed . His wife lies slack - jawed and motionless ."
+    ]
+  },
+  {
+    "image_id": "207#gymnast#practice#bar#gym#practice#pad#bar",
+    "test": "In the gym , a gymnast is diligently honing their skill on the parallel bars with protective pads in place .",
+    "refs": [
+      "A gymnast is practicing on the parallel bars in the gym . He practices with pads on the bars ."
+    ]
+  },
+  {
+    "image_id": "208#view#rotate#swap#look#partner",
+    "test": "We rotate our view around someone , while they exchange glances with their partner .",
+    "refs": [
+      "Our view rotates around someone . Someone swaps looks with his partner ."
+    ]
+  },
+  {
+    "image_id": "209#avoid#gaze#take#hand",
+    "test": "She averts her eyes , yet still grasps someone 's hand .",
+    "refs": [
+      "Someone timidly avoids her gaze . She takes someone 's hand ."
+    ]
+  },
+  {
+    "image_id": "21#woman#get#bath#dog#yard#take#hose#wet#dog",
+    "test": "In her front yard , the woman is preparing to give her dog a bath . She begins by hosing him down .",
+    "refs": [
+      "A woman is getting ready to bath her dog in her front yard . She takes a hose and wets the dog first ."
+    ]
+  },
+  {
+    "image_id": "210#jog#hand#tray",
+    "test": "Jogging back to her , he presented her with a tray .",
+    "refs": [
+      "He jogs back to her . He hands her a tray ."
+    ]
+  },
+  {
+    "image_id": "211#engage#game#volleyball#serve#ball#net",
+    "test": "Playing volleyball , they send the ball flying across the net .",
+    "refs": [
+      "They are engaged in a game of volleyball . They serve the ball over the net ."
+    ]
+  },
+  {
+    "image_id": "212#put#pantie#robe#pull#hunk#wax#ear",
+    "test": "Under her robe , she wears granny panties and removes a chunk of wax from her ear .",
+    "refs": [
+      "She puts on granny panties under her robe . She pulls a hunk of wax from her ear ."
+    ]
+  },
+  {
+    "image_id": "213#hand#pen#hand#folder",
+    "test": "A pen is given by one person to another , and a folder is presented to the same recipient .",
+    "refs": [
+      "Someone hands a pen to someone . Someone hands someone a folder ."
+    ]
+  },
+  {
+    "image_id": "214#woman#peel#potato#table#set#knife#table",
+    "test": "The elderly female cut a spud on the tabletop and then placed the blade beside it .",
+    "refs": [
+      "An older woman peels a potato over a table . She sets the knife down on the table ."
+    ]
+  },
+  {
+    "image_id": "215#down#martini#look#sneak#glance#dealer",
+    "test": "He quickly gulped down his martini , before shooting a covert look at the dealer .",
+    "refs": [
+      "Someone downs a martini in one . He looks up and sneaks a glance at the dealer ."
+    ]
+  },
+  {
+    "image_id": "216#skip#corridor#student#walk#path#station",
+    "test": "Students walked down the path as one skipped cheerfully away down the corridor .",
+    "refs": [
+      "Someone skips away along the corridor . Students walk along the path towards the station ."
+    ]
+  },
+  {
+    "image_id": "217#stand#freeze#turn#look",
+    "test": "Unbeknownst to him , a figure stood behind him , causing him to slowly freeze and turn his gaze upwards .",
+    "refs": [
+      "He is unaware that someone is now standing behind him . He freezes , turns slowly to look up at her ."
+    ]
+  },
+  {
+    "image_id": "218#scatter#shot#linger#hold#door",
+    "test": "Scurrying away , one person lingered . A door was opened for them by someone .",
+    "refs": [
+      "They scatter out of shot ; someone lingers . Someone holds the door open for him ."
+    ]
+  },
+  {
+    "image_id": "219#enter#wear#robe#cross#room#dark#turn#look",
+    "test": "A figure garbed in a robe drifted through the gloom , and as it passed , a head swiveled away .",
+    "refs": [
+      "Someone enters , wearing a robe , crossing the room in the dark . Someone turns to look away ."
+    ]
+  },
+  {
+    "image_id": "22#people#cook#grill#raft#water#turn#go#river",
+    "test": "The grill sizzles as the people take turns rafting down the river .",
+    "refs": [
+      "The people are cooking on a grill , and rafting in the water . They take turns going down the river ."
+    ]
+  },
+  {
+    "image_id": "220#see#man#keep#run#hand#pistol",
+    "test": "As the man descended , someone kept running , yet Little Hansel gave him a pistol .",
+    "refs": [
+      "Someone sees the man go down but keeps running . Little Hansel hands him a pistol ."
+    ]
+  },
+  {
+    "image_id": "221#wear#aviator#shade#nod#smile#beckon#join",
+    "test": "With a smile , the person wearing aviator shades gave a slight nod to beckon the other person to join them .",
+    "refs": [
+      "Wearing aviator shades , someone nods smiling . They beckon him to join them ."
+    ]
+  },
+  {
+    "image_id": "222#man#prepare#play#tennis#man#talk#screen",
+    "test": "The man , getting ready to play tennis , conversed with someone not visible on the screen .",
+    "refs": [
+      "A man prepares to play tennis . The man talks to someone off screen ."
+    ]
+  },
+  {
+    "image_id": "223#man#turn#light#man#girl#add#bulb#tree",
+    "test": "The man illuminated the area , while he and the girl adorned the tree with bulbs .",
+    "refs": [
+      "The man turns the lights on . The man and the girl add bulbs to the tree ."
+    ]
+  },
+  {
+    "image_id": "224#man#man#stand#boat",
+    "test": "We witness a man submerged and one on a vessel .",
+    "refs": [
+      "We see a man underwater . We see a man standing in a boat ."
+    ]
+  },
+  {
+    "image_id": "225#person#shave#knee#person#remove#razor#leg",
+    "test": "The person shaves their kneecap , then withdraws the razor from the vicinity of their limb .",
+    "refs": [
+      "The person shaves their knee . The person removes the razor from their leg ."
+    ]
+  },
+  {
+    "image_id": "226#man#place#piece#wood#split#piece#ax",
+    "test": "The man placed one piece of wood atop another , then proceeded to split them with an ax .",
+    "refs": [
+      "A man places a smaller piece of wood on top after another . He splits the wooden pieces with an ax ."
+    ]
+  },
+  {
+    "image_id": "227#dip#brush#paint#paint#brush",
+    "test": "The brushes are dipped in paint , and then used for painting .",
+    "refs": [
+      "They dip the brush in paint . They then paint using the brushes ."
+    ]
+  },
+  {
+    "image_id": "228#man#ball#face#sway#man#win#swinge",
+    "test": "The man , swaying , placed the ball atop his face and emerged victorious , continuing to oscillate .",
+    "refs": [
+      "The man put the ball on his face and sway . The man wins while still swinging back and forth ."
+    ]
+  },
+  {
+    "image_id": "229#woman#stand#grab#bowling#ball#walk#drop#lane",
+    "test": "The female got to her feet , picked up a bowling ball and strode towards the alley , releasing it with a thud .",
+    "refs": [
+      "A woman stands up and grabs a bowling ball . She walks up and drops it down the lane ."
+    ]
+  },
+  {
+    "image_id": "23#man#talk#van#hold#smoke#pipe#fire#hold#jack",
+    "test": "The man was standing behind the van , his pipe in one hand , the jack in the other , and a fire burning nearby .",
+    "refs": [
+      "A man is talking behind a van . He is holding a smoke pipe at a fire and holding a jack ."
+    ]
+  },
+  {
+    "image_id": "230#man#play#piano#people#see#people#background",
+    "test": "In the background , two men can be seen playing a piano in tandem .",
+    "refs": [
+      "Two men play a piano together . People are seen people in the background ."
+    ]
+  },
+  {
+    "image_id": "231#open#door#label#voltage#sign#check#room",
+    "test": "Cautiously , she opened a door adorned with a voltage warning ; a quick scan of the room preceded her entry .",
+    "refs": [
+      "She opens a door labeled with a voltage sign . She checks the room first ."
+    ]
+  },
+  {
+    "image_id": "232#seal#swim#ocean#scene#switch#dog#scuba#diving#human",
+    "test": "Transitioning from the sight of a seal gliding through the waves of the sea , the vista shifts to a pup donning scuba gear and exploring the deep waters alongside humans .",
+    "refs": [
+      "A seal swims in the ocean . The scene switches to a dog scuba diving with humans ."
+    ]
+  },
+  {
+    "image_id": "233#man#deal#card#jack#table#man#face#paint#walk#door",
+    "test": "The individual behind the blackjack table , adorned in face paint , walked out of the room in reverse .",
+    "refs": [
+      "A man is dealing cards at a black jack table . The man in face paint walks backwards out of a door ."
+    ]
+  },
+  {
+    "image_id": "234#man#room#play#set#drum#man#play#drum",
+    "test": "Primarily , the man in the room plays the drums on the left side .",
+    "refs": [
+      "We see a man in a room playing a set of drums . The man plays the drums on the left side primarily ."
+    ]
+  },
+  {
+    "image_id": "235#man#mow#lawn#boy#mow#lawn",
+    "test": "A man and a little boy are mowing the lawn , going to and fro .",
+    "refs": [
+      "A man is mowing his lawn with a little boy . They are mowing the lawn back and forth ."
+    ]
+  },
+  {
+    "image_id": "236#ingredient#dish#show#guy#put#butter#oil#ingredient#pan",
+    "test": "The guy is shown putting butter , oil and dry ingredients into a pan to create a dish .",
+    "refs": [
+      "The ingredients to make a dish is shown . The guy puts butter , oil and dry ingredients into a pan ."
+    ]
+  },
+  {
+    "image_id": "237#body#lie#sidewalk#come#halt",
+    "test": "His body coming to a halt , he lay on the sidewalk .",
+    "refs": [
+      "Someone 's body lies on the sidewalk . He comes to a halt ."
+    ]
+  },
+  {
+    "image_id": "238#spin#head#bow#head#step",
+    "test": "The individual whirled and departed , bowing their head as they went .",
+    "refs": [
+      "Someone spins around and heads off . Someone bows his head then steps away ."
+    ]
+  },
+  {
+    "image_id": "239#man#face#begin#crumble#go",
+    "test": "The man 's countenance starts to collapse , his body becoming pliant .",
+    "refs": [
+      "The man 's face begins to crumble . Someone goes limp ."
+    ]
+  },
+  {
+    "image_id": "24#porch#jerk#thumb",
+    "test": "Someone on the porch jerks a thumb in our direction .",
+    "refs": [
+      "Someone 's on the porch . She jerks her thumb toward us ."
+    ]
+  },
+  {
+    "image_id": "240#man#put#mouth#man#continue#brush#tooth",
+    "test": "The man ingested something while continuing to brush his teeth .",
+    "refs": [
+      "The man puts something in his mouth . The man continues to brush his teeth ."
+    ]
+  },
+  {
+    "image_id": "241#lady#put#log#platform#lady#finish",
+    "test": "After the lady had placed a log onto the platform , we watched her move away .",
+    "refs": [
+      "The lady puts a log on a platform . We see the lady finish , then move down ."
+    ]
+  },
+  {
+    "image_id": "242#man#serve#beer#cup#drink#smile#man#hold#cup#smile",
+    "test": "The man grins as he sips from the cup of beer .",
+    "refs": [
+      "A man serves beer in a cup and drinks while smiling . The man holds the cup and smiles ."
+    ]
+  },
+  {
+    "image_id": "243#body#turn#head#conversation#rise",
+    "test": "The body of the person remained motionless as they slowly turned their head in response to the increasing discussion .",
+    "refs": [
+      "Someone 's body becomes very still . Someone turns his head as the conversation slowly rises ."
+    ]
+  },
+  {
+    "image_id": "244#man#jump#horse#run#tie#calf#man#lasso#tie",
+    "test": "The man dismounts from his horse and sprints to secure the calf with a lasso .",
+    "refs": [
+      "The man jumps from his horse and runs over and ties up the calf . The man lassos and ties it ."
+    ]
+  },
+  {
+    "image_id": "245#take#hat#exchange#batter#hat",
+    "test": "She swaps her hat for someone else 's battered old hat .",
+    "refs": [
+      "Someone takes someone 's hat . She exchanges it for a battered old hat ."
+    ]
+  },
+  {
+    "image_id": "246#man#work#exercise#machine#continue#routine",
+    "test": "The man diligently persists in his workout on the exercise machine .",
+    "refs": [
+      "A man works out on an exercise machine . He continues with his routine ."
+    ]
+  },
+  {
+    "image_id": "247#teen#walk#hold#skateboard#teen#street#make#trick#turn",
+    "test": "The adolescent was skating his board down the street , executing tricks and turns with ease .",
+    "refs": [
+      "The teen walks holding his skateboard . Teens skateboard in the street making tricks and turn ."
+    ]
+  },
+  {
+    "image_id": "248#building#engage#game#beer#pong#throw#ball#cup",
+    "test": "Entering the building in unison , they play beer pong , tossing balls into their respective cups .",
+    "refs": [
+      "They go inside a building together . They engage in a game of beer pong , throwing balls into cups ."
+    ]
+  },
+  {
+    "image_id": "249#spot#danger#pub#see#squint#man",
+    "test": "At the pub , someone noticed the potential peril and squinted at the man seated there .",
+    "refs": [
+      "Someone spots the danger and , at the pub , someone sees someone . Someone squints at the seated man ."
+    ]
+  },
+  {
+    "image_id": "25#fight#scene#show#artist#scene#movie",
+    "test": "Martial arts combat is depicted multiple times throughout the movie .",
+    "refs": [
+      "Several fight scenes are shown among martial artists . These are all scenes from a movie ."
+    ]
+  },
+  {
+    "image_id": "250#pick#ship#sniff#tube#drop",
+    "test": "The broken ship being retrieved , Snowy gave the tube a sniff , only for it to be returned to the ground by whoever had picked it up .",
+    "refs": [
+      "Someone picks up the broken ship . Snowy sniffs at the tube , but someone drops it back down ."
+    ]
+  },
+  {
+    "image_id": "251#crack#open#approach#car#climb#stairway#shut#roof",
+    "test": "He approaches another car and , upon seeing a crack , ascends a stairway and closes the roof .",
+    "refs": [
+      "The crack opens approaching another car . He climbs a stairway and shuts down the roof ."
+    ]
+  },
+  {
+    "image_id": "252#man#talk#bike#shot#title#screen",
+    "test": "Following a man 's conversation and a few shots of bicycles , the title screen appears .",
+    "refs": [
+      "We see a man talking and some bike shots . We then see the title screen ."
+    ]
+  },
+  {
+    "image_id": "253#son#stand#make#gesture#head",
+    "test": "Beside someone , their son made a few gestures before departing .",
+    "refs": [
+      "Someone 's son stands beside someone . He makes a few gestures then heads out ."
+    ]
+  },
+  {
+    "image_id": "254#car#enter#tunnel#pull#time",
+    "test": "The car had already gone into the tunnel when the driver realized it was too late to stop .",
+    "refs": [
+      "The car enters the tunnel . Someone can not pull up in time ."
+    ]
+  },
+  {
+    "image_id": "255#hair#trim#dress#look#inch#gentleman",
+    "test": "His dark locks , neatly trimmed , and smart attire give the appearance of a true gentleman .",
+    "refs": [
+      "His hair is dark and neatly trimmed . Smartly dressed , he looks every inch a gentleman ."
+    ]
+  },
+  {
+    "image_id": "256#frame#hand#take#backpack#place#stack#book",
+    "test": "Framing her pelvis with her hands , she then removed the backpack and set it atop a stack of books .",
+    "refs": [
+      "She frames her pelvis with her hands . She takes off the backpack and places it on a stack of books ."
+    ]
+  },
+  {
+    "image_id": "257#follow#dragon#zoom#arena#catch",
+    "test": "The arena was abuzz with the sound of the furious dragon , as someone zoomed around it , eventually catching up with another .",
+    "refs": [
+      "Followed by the furious dragon , someone zooms around the arena . He catches up with someone ."
+    ]
+  },
+  {
+    "image_id": "258#toss#mask#flame#step#elevator#escape",
+    "test": "The mask is thrown into the burning fire , while two people step into the lift and flee .",
+    "refs": [
+      "Someone tosses the mask into the flames below . Someone and someone step into an elevator and escape ."
+    ]
+  },
+  {
+    "image_id": "259#follow#office#pick#cell#phone#start",
+    "test": "Jumping with surprise , one person watched as the other entered their office , and immediately reached for the cell phone .",
+    "refs": [
+      "Someone follows someone into his office . Someone picks up the cell phone with a start ."
+    ]
+  },
+  {
+    "image_id": "26#bend#sniff#content#pick#spoon#stir#stew",
+    "test": "Leaning down , she detected the aroma of the stew . With a wooden spoon in hand , she stirred it .",
+    "refs": [
+      "Bending over , she sniffs the contents . She picks up a wooden spoon and stirs the stew ."
+    ]
+  },
+  {
+    "image_id": "260#man#play#piano#people#walk#ground",
+    "test": "Playing a piano in tandem , two men provide a musical backdrop against which passersby can be seen .",
+    "refs": [
+      "Two men play a piano together . People walk around in the back ground ."
+    ]
+  },
+  {
+    "image_id": "261#anchorman#suit#sit#laptop#desk#man#look#microphone",
+    "test": "A suited anchorman sits at a pristine desk with a laptop in front of him . He gazes downward , holding a microphone .",
+    "refs": [
+      "A anchorman in a suit sits with a laptop on his clear desk . A man looks down with a microphone ."
+    ]
+  },
+  {
+    "image_id": "262#guy#move#tile#floor#guy#flip#land#foot",
+    "test": "On a tiled floor , the guy executed a back flip , perfectly landing on his feet with karate moves .",
+    "refs": [
+      "The guy is doing karate moves on a tiled floor . The guy back flips and lands on his feet ."
+    ]
+  },
+  {
+    "image_id": "263#snuggle#bed#lie#bed",
+    "test": "The one in bed cuddled up , while another lay beside them .",
+    "refs": [
+      "Someone snuggles down in bed . Someone lies beside him on the bed ."
+    ]
+  },
+  {
+    "image_id": "264#woman#shirt#mix#paste#bowl#mix#oil#cream",
+    "test": "A bowl with a mixture of oil and cream was being blended by the woman wearing a black shirt .",
+    "refs": [
+      "The woman in the black shirt is mixing a paste together in a bowl . She mix it with oil and cream ."
+    ]
+  },
+  {
+    "image_id": "265#admiral#man#peer#bridge#eye#stare",
+    "test": "From the bridge , the admiral and his men peer down , their solemn stares revealing a single pair of red eyes .",
+    "refs": [
+      "The admiral and his men peer down from the bridge . Someone 's red eyes stare solemnly ."
+    ]
+  },
+  {
+    "image_id": "266#meet#gaze#shove#sit#close#eye#lean#grass",
+    "test": "She encountered a blank stare ; pushing past the seated figure , she shut her eyes and rested her head on the turf .",
+    "refs": [
+      "Someone meets her gaze blankly . Someone shoves past sitting , closes her eyes and leans on the grass ."
+    ]
+  },
+  {
+    "image_id": "267#motion#make#sho#field#man#stand#field",
+    "test": "The man is moving slowly , creating a shoe in a large , verdant grassland .",
+    "refs": [
+      "Man is in slowly motion making a sho put in a field . man is standing in a large green grassy field ."
+    ]
+  },
+  {
+    "image_id": "268#skate#take#breath#spit#seat",
+    "test": "Skating to his side , they take a deep breath and spit onto the chair beside him .",
+    "refs": [
+      "Someone skates to his side . Someone takes a breath , then spits onto the seat beside him ."
+    ]
+  },
+  {
+    "image_id": "269#smile#pat#head",
+    "test": "A smile is exchanged between them , followed by a gentle pat on the head .",
+    "refs": [
+      "Someone smiles up at someone . Someone pats someone 's head ."
+    ]
+  },
+  {
+    "image_id": "27#group#people#gather#court#engage#game#curl",
+    "test": "A congregation of individuals had come together on an outside court , taking part in a game of curling .",
+    "refs": [
+      "A group of people have gathered at an outdoor court . They are engaged in a game of curling ."
+    ]
+  },
+  {
+    "image_id": "270#stroll#neighborhood#rugge#face#man#glance#diner",
+    "test": "He subsequently went for a walk around the area with a rough - looking man , giving the diner a quick once - over .",
+    "refs": [
+      "Later , he strolls a neighborhood with a rugged - faced man . They glance at a diner ."
+    ]
+  },
+  {
+    "image_id": "271#stand#bed#stare#frown#furrow#brow",
+    "test": "Someone was standing near the bed , scrutinizing the other person with a frown , followed by a furrowed brow .",
+    "refs": [
+      "Someone stands by the bed , staring at someone . Someone frowns , then furrows his brow ."
+    ]
+  },
+  {
+    "image_id": "272#man#kneel#ground#table#play#set#drum",
+    "test": "The man is pounding out a beat on a pair of bongo drums , positioned in front of a vivid red table , while on bended knee .",
+    "refs": [
+      "A man is kneeling down on the ground in front of a red table . He is playing a set of bongo drums ."
+    ]
+  },
+  {
+    "image_id": "273#part#school#people#burst#tower",
+    "test": "Flames engulfed sections of the campus , prompting a rush of people into the building .",
+    "refs": [
+      "Parts of the school are ablaze . People burst in to a tower ."
+    ]
+  },
+  {
+    "image_id": "274#man#hold#needle#woman#arm#woman#string#wrist#machine",
+    "test": "The woman braces her wrist against the machine while the man steadies the tattoo needle against her arm .",
+    "refs": [
+      "A man holds a tattoo needle on a woman 's arm . the woman strings her wrist on the machine ."
+    ]
+  },
+  {
+    "image_id": "275#adjust#strap#purse#stop#face",
+    "test": "She adjusts her purse strap , then stops and gazes into the other 's eyes .",
+    "refs": [
+      "Someone adjusts the strap of her purse . They stop and face each other ."
+    ]
+  },
+  {
+    "image_id": "276#man#grab#gun#pistol#whip#jump#leap#stumble",
+    "test": "The hitman brandished his firearm and struck his target . Instantly , the victim jumped to their feet and stumbled .",
+    "refs": [
+      "The hit man grabs his own gun and pistol - whips him . Jumping up someone leaps up and stumbles ."
+    ]
+  },
+  {
+    "image_id": "277#notice#diner#stare#rub",
+    "test": "Nervous glances were cast by the diners while a comforting hand rubbed another 's back .",
+    "refs": [
+      "Someone uneasily notices diners staring . Someone rubs someone 's back ."
+    ]
+  },
+  {
+    "image_id": "278#woman#man#perform#arm#wrestling#man#raise#t#shirt#sleeve#shoulder",
+    "test": "The woman and man engaged in arm wrestling , with the man rolling up his t - shirt sleeve to the shoulder .",
+    "refs": [
+      "A woman and a man performs arm wrestling . The man raise his t - shirt sleeve until the shoulder ."
+    ]
+  },
+  {
+    "image_id": "279#lift#chin#shake#hand#smirk",
+    "test": "She haughtily lifts her chin as someone shakes her hand and smirks .",
+    "refs": [
+      "Someone haughtily lifts her chin . Someone shakes her hand and smirks ."
+    ]
+  },
+  {
+    "image_id": "28#aim#dart#throw#repeat#time",
+    "test": "He takes aim with a dart , then tosses it , repeating the action a few times .",
+    "refs": [
+      "He aims a dart and throws it . He repeats this a few more times ."
+    ]
+  },
+  {
+    "image_id": "280#spot#seize#give#pat#run",
+    "test": "He is seen , grabbed and then given a pat before fleeing the scene .",
+    "refs": [
+      "Someone spots him and seizes it . Someone gives it a pat and runs out ."
+    ]
+  },
+  {
+    "image_id": "281#get#seat#stare",
+    "test": "Rising from his chair , he felt an aggressive stare upon him .",
+    "refs": [
+      "He gets up from his seat . Someone stares at him aggressively ."
+    ]
+  },
+  {
+    "image_id": "282#calf#horse#run#gate#man#catch#calf#tie",
+    "test": "The man ran out of the gate , snatching the calf and tying it up , with a horse galloping ahead of him .",
+    "refs": [
+      "A calf and horse run out of a gate . The man catches the calf and ties it up ."
+    ]
+  },
+  {
+    "image_id": "283#hold#captain#gaze#helicopter#return#site",
+    "test": "The captain 's gaze was held by someone , and at that moment , a helicopter returned to the site .",
+    "refs": [
+      "Someone holds the captain 's gaze . Now , a helicopter returns to the site ."
+    ]
+  },
+  {
+    "image_id": "284#check#rearview#look",
+    "test": "She casts a glance at him as he once more checks his rearview .",
+    "refs": [
+      "Someone checks his rearview again . She looks over at him ."
+    ]
+  },
+  {
+    "image_id": "285#camera#move#shot#face#shake#head#gaze",
+    "test": "Moving the camera in close , a defiant gaze appears on the person 's face as they shake their head .",
+    "refs": [
+      "Camera moves in to a close shot of someone 's face . She shakes her head with a defiant gaze ."
+    ]
+  },
+  {
+    "image_id": "286#woman#talk#yard#push#lawnmower#backyard",
+    "test": "In the front yard a woman is conversing while pushing a lawnmower in the backyard .",
+    "refs": [
+      "A woman is talking in the front yard . She is pushing a lawnmower in a backyard ."
+    ]
+  },
+  {
+    "image_id": "287#woman#gym#leg#exercise#ab#woman#machine#competition",
+    "test": "The female competitor is utilizing the gym equipment for her leg and abdominal exercises .",
+    "refs": [
+      "Woman is in a gym doing leg exercise and abs . thw woman are on the machine in a competition ."
+    ]
+  },
+  {
+    "image_id": "288#snow#fall#ceiling#clutch#arm#wave#friend",
+    "test": "As snow descends from the magical sky , the individual firmly grasping someone else 's arm and cheerfully waves goodbye to their pals .",
+    "refs": [
+      "Snow falls from the enchanted ceiling . Clutching someone 's arm , someone waves to her friends ."
+    ]
+  },
+  {
+    "image_id": "289#shake#hand#step#kiss#cheek",
+    "test": "The first person extended their hand in greeting , then stepped closer and planted a kiss on the other 's cheek .",
+    "refs": [
+      "Someone shakes someone 's hand . Someone steps forward and kisses someone 's cheek ."
+    ]
+  },
+  {
+    "image_id": "29#pause#way#face#sunlight#outline#face",
+    "test": "Pausing mid - exit , a figure silhouetted by the sun 's rays revealed a freshly - shaven countenance .",
+    "refs": [
+      "Someone pauses on his way out and faces someone . Sunlight outlines someone ' clean - shaven face ."
+    ]
+  },
+  {
+    "image_id": "290#cat#screen#title#video#dog#cat#walk#brick#sidewalk",
+    "test": "The video title features a cat , and depicts a canine and feline strolling along a brick pavement .",
+    "refs": [
+      "A cat is on the screen with a title of the video . A dog and cat are walking along a brick sidewalk ."
+    ]
+  },
+  {
+    "image_id": "291#hand#pick#mallet#man#hold#mallet#walk#room",
+    "test": "The man gripping the wooden mallet emerged from the room , having selected it with his hand .",
+    "refs": [
+      "The hand picks up a wooden mallet . The man holding the wooden mallet walks out of the room ."
+    ]
+  },
+  {
+    "image_id": "292#pull#blanket#get#stand#take#vest#chair",
+    "test": "She yanked her blanket away , leaving her chair as she stood up and removed her vest .",
+    "refs": [
+      "She pulls back her blanket and gets up . She stands up and takes the vest off of her chair ."
+    ]
+  },
+  {
+    "image_id": "293#start#work#mat#lift#barbell#chest",
+    "test": "Beginning her workout on a blue mat , she brings a barbell up to her chest .",
+    "refs": [
+      "She starts working out on a blue mat . She lifts a barbell to her chest ."
+    ]
+  },
+  {
+    "image_id": "294#sign#paper#stand#desk",
+    "test": "Someone is standing at his desk while he signs some papers .",
+    "refs": [
+      "He is signing some papers . Someone stands at someone 's desk ."
+    ]
+  },
+  {
+    "image_id": "295#hook#cane#end#bed#get#bed",
+    "test": "The man hung his cane on the edge of his bed and climbed in , lying on the other side .",
+    "refs": [
+      "Someone hooks his cane on the end of his bed and gets in . He is in the bed opposite ."
+    ]
+  },
+  {
+    "image_id": "296#man#sweep#rug#man#vacuum#rug",
+    "test": "The man gives the rug a thorough clean , first sweeping it and then vacuuming it .",
+    "refs": [
+      "The man sweeps under the rug . The man vacuums the rug again ."
+    ]
+  },
+  {
+    "image_id": "297#kayak#paddle#downstream#rower#appear#screen",
+    "test": "Paddling his kayak downstream , he is suddenly approached by another rower .",
+    "refs": [
+      "He is in his kayak paddling downstream . Another rower appears on the screen ."
+    ]
+  },
+  {
+    "image_id": "298#repeat#action#continue#routine#hoop",
+    "test": "She does the same thing again and again , followed by a hula hoop routine .",
+    "refs": [
+      "She repeats the same action exactly . She then continues the routine using the hula hoop ."
+    ]
+  },
+  {
+    "image_id": "299#curtsy#step#walk#tie#lace#corset",
+    "test": "Stepping out , a curtsy was given , and then , a person approached another to secure her corset 's laces .",
+    "refs": [
+      "Someone curtsies and steps out . Someone walks to someone and ties the laces of her corset ."
+    ]
+  },
+  {
+    "image_id": "3#shake#pound#fist#cupboard",
+    "test": "He angrily shook off the person and slammed his fist against the cupboard .",
+    "refs": [
+      "Someone furiously shakes someone away . He pounds his fist against a cupboard ."
+    ]
+  },
+  {
+    "image_id": "30#glance#eye#bow#head#smile",
+    "test": "With wide eyes , he glances at someone and , upon bowing his head , smiles .",
+    "refs": [
+      "He glances at someone with wide eyes . As he bows his head and smiles ."
+    ]
+  },
+  {
+    "image_id": "31#tear#chunk#root#take#bite#chew",
+    "test": "He tears off a chunk of root and takes a large , crunchy bite .",
+    "refs": [
+      "Someone tears off a chunk of root . He takes a large bite and chews ."
+    ]
+  },
+  {
+    "image_id": "32#hold#hand#walk#beach#stretch#bed",
+    "test": "Hand - in - hand they depart the beach and later they lie luxuriously in bed .",
+    "refs": [
+      "Now , they hold hands as they walk away from the beach . Later , they stretch out in bed ."
+    ]
+  },
+  {
+    "image_id": "33#people#ride#horse#barn#woman#ride#horse#barn",
+    "test": "A woman is riding a horse around a barn , with other people doing the same .",
+    "refs": [
+      "People are in riding horses around a barn . woman is riding a horse in a barn ."
+    ]
+  },
+  {
+    "image_id": "34#woman#sit#desk#man#sit#hold#cup#coffee",
+    "test": "A woman 's desk is graced by a man , cup of coffee in hand .",
+    "refs": [
+      "A woman is sitting at a desk . A man sitting in front of her is holding a cup of coffee ."
+    ]
+  },
+  {
+    "image_id": "35#find#head#head#ex#back#pace#heft#shoulder",
+    "test": "Upon seeing her ex , she took a step back in surprise . He then quickly lifted her onto his shoulder .",
+    "refs": [
+      "Finding herself head to head with her ex , someone backs up a pace . He hefts her over his shoulder ."
+    ]
+  },
+  {
+    "image_id": "36#man#talk#camera#man#stand#stick#hand",
+    "test": "The camera focuses on a young man , who stands with a stick in hand .",
+    "refs": [
+      "A young man is talking the the camera . The man stands with a stick in his hand ."
+    ]
+  },
+  {
+    "image_id": "37#studio#light#come#technician#assemble#equipment#woman#see",
+    "test": "As technicians assemble equipment , the studio lights switch on and an elderly woman catches sight of someone in the van .",
+    "refs": [
+      "The studio lights come on as technicians assemble equipment . An old woman sees someone in the van ."
+    ]
+  },
+  {
+    "image_id": "38#man#play#futsal#roof#court#goal#man#jump#court",
+    "test": "In the roofed court , men are enthusiastically playing futsal and celebrating goals with leaps of joy .",
+    "refs": [
+      "Men are playing futsal in a roofed court annotating goals . men are jumping around on the court ."
+    ]
+  },
+  {
+    "image_id": "39#woman#measure#wallpaper#cut#woman#remove#wallpaper",
+    "test": "The woman took measurements of the wallpaper and trimmed it . Any extra wallpaper was discarded .",
+    "refs": [
+      "The woman measure the wallpaper and cut it . the woman removes the excess wallpaper ."
+    ]
+  },
+  {
+    "image_id": "4#spit#dirt#face#set#dismay",
+    "test": "A blob of spit lands on the ground in front of him , causing a look of shock and disapproval to spread across the face of the onlooker .",
+    "refs": [
+      "He spits on the dirt in front of him . Someone 's face is set in rigid dismay ."
+    ]
+  },
+  {
+    "image_id": "40#child#play#playground#boy#lead#bike#bridge",
+    "test": "A bridge was crossed by two boys , with their bicycles , in a playground where children were playing .",
+    "refs": [
+      "Children play in a playground . Two boys lead their bike across a bridge ."
+    ]
+  },
+  {
+    "image_id": "41#knit#brow#sound#look#shoulder",
+    "test": "His brow furrowed at the sound , he glanced back over his shoulder .",
+    "refs": [
+      "He knits his brow at the sound . He looks back over his shoulder ."
+    ]
+  },
+  {
+    "image_id": "42#take#step#hold#calm#hand",
+    "test": "A sudden feeling of nervousness and urgency overcame them , and they took a step back , extending a reassuring hand .",
+    "refs": [
+      "Someone is suddenly nervous and urgent . Someone takes one step down holding out a calming hand ."
+    ]
+  },
+  {
+    "image_id": "43#charge#head#procession#cattle#dealer#shake#anchorman#hand",
+    "test": "At the head of the procession , a cattle dealer was vigorously shaking hands with the anchorman .",
+    "refs": [
+      "Someone charges along at the head of the procession . A cattle dealer shakes the anchorman 's hands ."
+    ]
+  },
+  {
+    "image_id": "44#linger#moment#head#open#door",
+    "test": "After pausing for a brief moment , he proceeded indoors , with someone holding the door open for him .",
+    "refs": [
+      "He lingers a moment then heads inside . Someone opens the door for them ."
+    ]
+  },
+  {
+    "image_id": "45#recline#woman#knit#hand#woman#talk#face#camera",
+    "test": "The woman , reclined , knits with her hands while speaking without looking into the camera .",
+    "refs": [
+      "A reclining woman knits with her hands . The woman talks without facing the camera ."
+    ]
+  },
+  {
+    "image_id": "46#local#wash#river#load#luggage#boat",
+    "test": "The man loading his baggage onto the vessel did so while the locals bathed in the river .",
+    "refs": [
+      "Locals wash in a river . He loads his luggage into the boat ."
+    ]
+  },
+  {
+    "image_id": "47#stare#step#back",
+    "test": "All eyes were fixed on him , with one individual taking a hesitant step forward before gradually retreating .",
+    "refs": [
+      "They all stare at him . Someone steps forward then backs away slowly ."
+    ]
+  },
+  {
+    "image_id": "48#man#cut#grass#tree#man#shut#lawnmower#take#break",
+    "test": "After mowing the tall grass around a tree , the man shut off his lawnmower and took a rest .",
+    "refs": [
+      "The man cuts the tall grass around a tree . The man shuts down the lawnmower and takes a break ."
+    ]
+  },
+  {
+    "image_id": "49#boy#turn#look#stand#fold#arm",
+    "test": "He swivels around to face her , and she rises to her feet , folding her arms back into her chest .",
+    "refs": [
+      "The boy turns and looks at her . She stands and folds her arms again ."
+    ]
+  },
+  {
+    "image_id": "5#wear#shirt#throw#strike#ball#glide#lane",
+    "test": "A black - shirted individual hurls a bowling ball , which gracefully slides down the alley .",
+    "refs": [
+      "Man wearing a black shirt throws a strike . The red ball glides across the lane ."
+    ]
+  },
+  {
+    "image_id": "50#people#sit#stand#speak#lady#wear#costume#board",
+    "test": "People are seated or standing , with a woman attired in white .",
+    "refs": [
+      "People sit or stand while speaking . A lady is wearing a white costume board ."
+    ]
+  },
+  {
+    "image_id": "51#man#take#sandpapaer#wipe#gear#wipe#towel#man#wipe#wax",
+    "test": "The man uses sandpaper to remove the wax from the gear , and then wipes it down with a towel .",
+    "refs": [
+      "The man takes sandpapaer and wipes a gear then wipes it with a towel . The man wipes the wax off it ."
+    ]
+  },
+  {
+    "image_id": "52#hurry#put#gun#turn#walk#kitchen",
+    "test": "He quickly scurried off while stowing his firearm . With a pivot , he made his way to the kitchen .",
+    "refs": [
+      "Someone hurries off and someone puts his gun away . He turns and walks toward the kitchen ."
+    ]
+  },
+  {
+    "image_id": "53#group#man#room#engage#game#foosball",
+    "test": "A foosball game being enjoyed by a group of young men is taking place in a room .",
+    "refs": [
+      "A group of young men are inside a room . They are engaged in a game of foosball together ."
+    ]
+  },
+  {
+    "image_id": "54#man#woman#play#rock#paper#scissor#man#begin#talk#camera",
+    "test": "The man starts speaking to the camera , while he and a woman play rock paper scissors .",
+    "refs": [
+      "A man and a woman are playing rock paper scissors . The man begins talking to the camera ."
+    ]
+  },
+  {
+    "image_id": "55#display#set#game#beer#pong#people#clap#shake#hand#game",
+    "test": "A game of beer pong is arranged , with people applauding and shaking hands in anticipation of the event .",
+    "refs": [
+      "A display is set up for a game of beer pong . People clap and shake hands before the game ."
+    ]
+  },
+  {
+    "image_id": "56#sit#armchair#watch#lean",
+    "test": "He leaned in closer as someone serenely took a seat in the armchair nearby .",
+    "refs": [
+      "Someone sits down in a nearby armchair . Someone watches serenely , as he leans closer ."
+    ]
+  },
+  {
+    "image_id": "57#overlook#tranquil#river#wind#land#lean#view#eye",
+    "test": "A figure appears , eyes wide , to behold the tranquil river that meanders through lush , green terrain .",
+    "refs": [
+      "It overlooks a tranquil river winding through verdant lands . Someone leans into view with wide eyes ."
+    ]
+  },
+  {
+    "image_id": "58#man#nod#present#escort#radio#room",
+    "test": "He beside him gave her a nod , and soon after she was escorted into a radio room by someone .",
+    "refs": [
+      "The man beside him nods to her . Back in the present , someone escorts her into a radio room ."
+    ]
+  },
+  {
+    "image_id": "59#find#rooftop#overlook#city#hand#hand#talk",
+    "test": "From atop a small rooftop , the cityscape sprawled beneath them , their hands clasped together as they conversed .",
+    "refs": [
+      "They find themselves on a small rooftop overlooking the city . Hand in hand they talk to each other ."
+    ]
+  },
+  {
+    "image_id": "6#parent#greet#hold#arm",
+    "test": "The parents of someone beamed with pride as she lifted both arms in greeting .",
+    "refs": [
+      "Someone 's parents proudly greet her . She holds up both arms ."
+    ]
+  },
+  {
+    "image_id": "60#stop#turn#head#way#come#spin#head",
+    "test": "He halts , whirls about , then retraces his steps . Another individual spins and departs .",
+    "refs": [
+      "He stops , turns around and heads back the way he came . Someone spins around and heads off ."
+    ]
+  },
+  {
+    "image_id": "61#lady#dance#twirl#metal#stick#lady#tilt#head#smile",
+    "test": "Twirling a metal stick , the lady dances , her head tilted to the side with a smile .",
+    "refs": [
+      "The lady dances while twirling a metal stick . The lady tilts her head to the side and smiles ."
+    ]
+  },
+  {
+    "image_id": "62#girl#series#spin#score#show",
+    "test": "We witness a sequence of flips and a spin performed by the girl , followed by her scores being displayed .",
+    "refs": [
+      "The girl does a series of flips and a spin . We see her score are shown ."
+    ]
+  },
+  {
+    "image_id": "63#display#comb#clamp#scissor#female#use#comb#hair",
+    "test": "The female is equipped with a comb , a clamp , and a pair of scissors ; she employs the comb on her tresses .",
+    "refs": [
+      "The female displays a comb , clamp , and a scissor . The females uses the comb on her hair ."
+    ]
+  },
+  {
+    "image_id": "64#smile#rise#embrace#boy#hurry#window",
+    "test": "The boys hasten to the window upon seeing her smile at someone before standing and embracing them .",
+    "refs": [
+      "She smiles at someone , then rises and embraces him . The boys hurry to the window ."
+    ]
+  },
+  {
+    "image_id": "65#walk#truck#arm#fold#give#look",
+    "test": "As she strides past the truck , arms crossed , a thoughtful gaze is cast her way .",
+    "refs": [
+      "She walks along by the truck , her arms folded . Someone gives him a thoughtful look ."
+    ]
+  },
+  {
+    "image_id": "66#couple#child#yard#play#line",
+    "test": "In the yard , a line of small children can be seen playing .",
+    "refs": [
+      "A couple of small children are in a yard . They are playing in a line ."
+    ]
+  },
+  {
+    "image_id": "67#startle#crash#look#window",
+    "test": "Startled by the crash , she glanced out the window .",
+    "refs": [
+      "Someone is startled by the crash . She looks outside the window ."
+    ]
+  },
+  {
+    "image_id": "68#look#step#conference#room#snatch#cue#stick",
+    "test": "Entering the conference room with a face of confusion , the individual quickly grabbed the pool cue .",
+    "refs": [
+      "With a puzzled look , someone steps into the conference room . Someone snatches the cue stick ."
+    ]
+  },
+  {
+    "image_id": "69#walk#table#sit#notice#watch#nod",
+    "test": "As the person walked to the table and sat , they noticed someone watching and gave a hesitant nod .",
+    "refs": [
+      "Someone walks to a table and sits . Someone notices someone watching and nods hesitantly ."
+    ]
+  },
+  {
+    "image_id": "7#swagger#arm#look#head",
+    "test": "They all watched as the person confidently strutted away with their arms around each other , their heads still close together .",
+    "refs": [
+      "Someone swaggers off , arms around both . They all look at each other , still with their heads ."
+    ]
+  },
+  {
+    "image_id": "70#set#luggage#sit#bench#show#letter",
+    "test": "Placing their luggage on the ground , the group took a seat on a bench . Suddenly , a letter was brought to her attention .",
+    "refs": [
+      "They set down their luggage and sit on a bench . Someone shows her a letter ."
+    ]
+  },
+  {
+    "image_id": "71#pull#fork#attach#web#thread#come#wrist",
+    "test": "He pulled the fork , which was connected to him by web - like threads coming from his wrist .",
+    "refs": [
+      "So he pulls the fork . It 's attached to web like threads coming from his wrist ."
+    ]
+  },
+  {
+    "image_id": "72#watch#hang#selection#hook#pull#curtain#close",
+    "test": "Bewildered , he observed as she hung their choices on a hook , before yanking the curtains shut .",
+    "refs": [
+      "He watches confusedly as she hangs their selections on a hook . She pulls the curtains closed ."
+    ]
+  },
+  {
+    "image_id": "73#lady#blow#leafs#walk#yard#lady#continue#rake#leave",
+    "test": "As she ambles around the yard , the lady blows the leaves and keeps raking them .",
+    "refs": [
+      "The lady blows the leafs as she walks around the yard . The lady continues raking the leaves ."
+    ]
+  },
+  {
+    "image_id": "74#set#beer#sit#take#sip",
+    "test": "A beer was placed in front of them , and after settling down , they took another sip .",
+    "refs": [
+      "Someone sets a beer in front of someone . Someone sits down and takes another sip ."
+    ]
+  },
+  {
+    "image_id": "75#team#position#field#crowd#watch#field",
+    "test": "Two teams line up on the field , with a throng of spectators situated on the sidelines .",
+    "refs": [
+      "Two teams are positioned on a field . a crowd watches from the side of the field ."
+    ]
+  },
+  {
+    "image_id": "76#look#remove#hat#nod",
+    "test": "She casts her gaze on someone who , in a gesture of respect , takes off his hat . In response , she gives a slight nod of approval .",
+    "refs": [
+      "She looks at someone , who respectfully removes his hat . She nods appreciatively ."
+    ]
+  },
+  {
+    "image_id": "77#dog#training#event#show#man#field#dog",
+    "test": "A demonstration of canine coaching is taking place , featuring a person and their pup .",
+    "refs": [
+      "A dog training event is being shown . A man is on the field with his dog ."
+    ]
+  },
+  {
+    "image_id": "78#man#sing#play#guitar#man#play#guitar",
+    "test": "The man 's performance comprised singing while playing the guitar , followed by a piece on the guitar and harmonica .",
+    "refs": [
+      "Then , the man sings while playing the guitar . After , the man plays the guitar and harmonica ."
+    ]
+  },
+  {
+    "image_id": "79#boy#home#work#stand#tractor#game#screen#toy#tractor",
+    "test": "The boy is doing his homework , standing on a toy tractor , and looking at a game screen .",
+    "refs": [
+      "The boy is doing home work and stands on the tractor . We see a game screen and toy tractor ."
+    ]
+  },
+  {
+    "image_id": "8#deputy#try#shoot#troll#unfaze#bullet#crush#deputy#head",
+    "test": "Unfazed by the bullets , the troll crushes the last deputy 's head .",
+    "refs": [
+      "The last deputy tries shooting the troll . Unfazed by the bullets , he crushes the last deputy 's head ."
+    ]
+  },
+  {
+    "image_id": "80#man#jog#run#slope#mountain#road",
+    "test": "A youth was trailing behind a runner , who was making their way up a steep mountain path .",
+    "refs": [
+      "The young man jogs behind someone . Someone runs up a slope on a high mountain road ."
+    ]
+  },
+  {
+    "image_id": "81#flap#night#enter#kitchen#join#living#room",
+    "test": "It flew off into the darkness . He stepped into the kitchen , and someone else joined him in the lounge .",
+    "refs": [
+      "It flaps away into the night . He entered the kitchen and someone joins him in the living room ."
+    ]
+  },
+  {
+    "image_id": "82#rub#table#demonstrate#clean#head#sponge",
+    "test": "Using a sponge , she demonstrates the technique of cleaning and polishing a wooden table by rubbing it onto the surface .",
+    "refs": [
+      "She rubs that onto a wooden table . She demonstrates how to clean up and head it with a sponge ."
+    ]
+  },
+  {
+    "image_id": "83#turn#stop#flicker#candle#eye#look#horror",
+    "test": "He halts , spinning around to face the flickering candles , his eyes wide with terror .",
+    "refs": [
+      "Someone turns back on himself stopping by flickering candles . His eyes look in horror ."
+    ]
+  },
+  {
+    "image_id": "84#group#people#gym#stepper#exercise",
+    "test": "Within the gym , a multitude of individuals are engaging in exercise via the use of steppers .",
+    "refs": [
+      "A group of people are inside a gym . They are using steppers for exercising ."
+    ]
+  },
+  {
+    "image_id": "85#move#nickel#pocket#time#allow",
+    "test": "This time , he was granted permission to place the nickel into someone 's pocket .",
+    "refs": [
+      "Someone moves again to put the nickel into someone 's pocket . This time someone allows him to do it ."
+    ]
+  },
+  {
+    "image_id": "86#people#raft#river#raft#show#go#river",
+    "test": "Boaters are navigating a turbulent river , with a blue raft visible in the dirty water .",
+    "refs": [
+      "People are rafting down a choppy river . A blue raft is shown going down a muddy river ."
+    ]
+  },
+  {
+    "image_id": "87#face#grow#wink#take#sunglass",
+    "test": "His smug expression increased , and he gave a sly wink to another person . He then removed his sunglasses .",
+    "refs": [
+      "Someone 's face grows smug and he winks at someone . He takes off his sunglasses ."
+    ]
+  },
+  {
+    "image_id": "88#glance#nod#station#glance#agent#assistant",
+    "test": "The person at the station gave a nod of acknowledgement when their gaze was met by the agent 's assistant .",
+    "refs": [
+      "He glances at someone who nods . At the station , someone glances over the agent 's assistant ."
+    ]
+  },
+  {
+    "image_id": "89#wear#clothe#wake#lie#carpet#leave#forest",
+    "test": "Someone , still clothed in another 's attire , stirs awake , lying atop a carpet of dry , dead leaves in a forest .",
+    "refs": [
+      "Still wearing someone 's clothes , someone wakes . He is lying on a carpet of dead leaves in a forest ."
+    ]
+  },
+  {
+    "image_id": "9#man#wear#bull#fighting#outfit#talk#fighting",
+    "test": "Wearing bull fighting attire , several men converse while engaging in the fight .",
+    "refs": [
+      "Several men wear bull fighting outfits . They talk to each other on the fighting ."
+    ]
+  },
+  {
+    "image_id": "90#group#kid#sit#floor#look#stage#man#stage#talk#kid",
+    "test": "A multitude of youngsters were seated on the ground , their eyes glued to the platform and the figure on it who was conversing with them .",
+    "refs": [
+      "A large group of kids sits on the floor looking at a stage . A man on the stage talks to the kids ."
+    ]
+  },
+  {
+    "image_id": "91#twirl#take#jacket#sit",
+    "test": "Doing a nervous twirl , he shed his jacket and took a seat .",
+    "refs": [
+      "Someone does a nervous twirl . Someone takes off his jacket and sits down ."
+    ]
+  },
+  {
+    "image_id": "92#stare#read#surprise#eye",
+    "test": "The surprise in his eyes was clearly visible when he suddenly looked at the other person .",
+    "refs": [
+      "Someone suddenly stares at someone . Someone reads the surprise in his eyes ."
+    ]
+  },
+  {
+    "image_id": "93#eye#walk",
+    "test": "He could n't tear his gaze away from her , and he strode towards her .",
+    "refs": [
+      "Someone ca n't take his eyes off her . Someone walks over to someone ."
+    ]
+  },
+  {
+    "image_id": "94#smile#catch#enjoy#notice#interest",
+    "test": "Observing someone revel in someone else , someone grins and takes note of their fascination .",
+    "refs": [
+      "Someone smiles at catching someone enjoying someone . Someone notices someone 's interest ."
+    ]
+  },
+  {
+    "image_id": "95#home#pile#suitcase#sit#foot#stair#pull#spectacle",
+    "test": "At the foot of the stairs , a pile of suitcases now lies in the home , and the person takes off his spectacles .",
+    "refs": [
+      "Now at home , a pile of suitcases sit at the foot of the stairs . Someone pulls off his spectacles ."
+    ]
+  },
+  {
+    "image_id": "96#speak#phone#enter#robe",
+    "test": "Phone in hand , a person dressed in a robe makes their entrance .",
+    "refs": [
+      "Now , someone speaks on her phone . Someone enters in a robe ."
+    ]
+  },
+  {
+    "image_id": "97#feel#continue#try#stare#mull",
+    "test": "Despite feeling helpless , he persists in his efforts . His eyes unfocused , his mind lost in thought .",
+    "refs": [
+      "Someone feels helpless but he continues to try . Someone stares into nothing - - mulling that ."
+    ]
+  },
+  {
+    "image_id": "98#remove#cigarette#finger#adjust#head#breathe",
+    "test": "Taking the cigarette from his fingers , he readjusted his head to enable him to breathe more freely .",
+    "refs": [
+      "Someone removes the cigarette from his fingers . And adjusts his head so he can breathe easily ."
+    ]
+  },
+  {
+    "image_id": "99#wind#ruffle#hair#grab#run#night",
+    "test": "His hair was ruffled by the wind as they seized one another and sprinted away into the darkness .",
+    "refs": [
+      "The wind ruffles his hair . Someone grabs someone and they run into the night ."
+    ]
+  }
+]
