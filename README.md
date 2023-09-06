@@ -61,4 +61,4 @@ email={seojae777@korea.ac.kr}}
 
 ## 4. Thanks
 
-This script is based on [CommonGen](https://github.com/INK-USC/CommonGen),  [BERTScore](https://github.com/Tiiiger/bert_score),  [BARTScore](hhttps://github.com/neulab/BARTScore/tree/main). We thank the authors for their academic contribution.
+This script is based on [CommonGen](https://github.com/INK-USC/CommonGen),  [BERTScore](https://github.com/Tiiiger/bert_score),  [BARTScore](https://github.com/neulab/BARTScore/tree/main). We thank the authors for their academic contribution.
