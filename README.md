@@ -33,6 +33,10 @@ conda create -n $YOUR_ENV$ python==3.8
 conda activate $YOUR_ENV$
 sh install.sh
 ```
+You should also download the following file and move on your **SPICE/lib** folder
+
+> https://drive.google.com/file/d/1Hwu0qXV5s3hM1sq43fDUGdi_mlyXZHpK/view?usp=sharing
+
 
 ## 2. Usage
 
